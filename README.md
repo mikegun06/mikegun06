@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikegun06
 - 👀 I’m interested in Cooking and Mathematics
-- 🌱 I’m currently learning Laravel and Tailwind CSS
+- 🌱 I’m currently learning SAP UI5 and Codeigniter
 - 💞️ I’m looking to collaborate on Spotify
 - 📫 Just dm me on Instagram *id same as github
 

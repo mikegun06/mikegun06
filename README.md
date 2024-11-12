@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mikegun06
-- 👀 I’m interested in Cooking and Mathematics
-- 💻 I’m currently learning SAP UI5 and Codeigniter
+- 👋 Hi, my name is Michael Gun
+- 👀 I’m interested in Technology and Trading
+- 💻 I’m currently learning Web Development
 - 💿 I’m looking to collaborate with tech savvy
 - 📫 Just dm me on Instagram @mikegun06
 
